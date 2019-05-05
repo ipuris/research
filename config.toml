@@ -1,0 +1,5 @@
+baseURL = "http://research.hanpark.im/"
+languageCode = "ko-kr"
+title = "Research"
+publishDir = "docs"
+theme = "ananke"
